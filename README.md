@@ -6,3 +6,5 @@ Conteúdo das aulas:
 - Manipulando arquivos
 - Manipular Data e Hora
 - Try e Exception
+
+https://docs.python.org/3/
